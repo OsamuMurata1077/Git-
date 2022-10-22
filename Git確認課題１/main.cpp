@@ -2,7 +2,7 @@
 
 int main()
 {
-	puts("main branch");
+	puts("kadai3 branch");
 
 	return 0;
 }
